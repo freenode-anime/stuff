@@ -8,7 +8,10 @@ Be respectful and courteous! That's the root of it. Some examples of respectful 
 * Not using slurs. Aside from being unwelcoming, using them puts the channel on a slippery slope to degenerating into another internet shithole
 * Stopping or moving heated discussions when asked (this happens a lot with religion or politics). Give ##anime-offtopic or PMs a try
 This list is far from exhaustive, but the general theme is "don't be a dick". If you feel someone is acting out, feel free to ping an op. We'll generally try to communicate before doing anything, but if you feel you are wrongly quieted or banned, head over to ##anime-jail to chat with the ops. Keep in mind that moderation is heavily contextual and highly discretionary, and that we can only moderate what we see so you may have to ping us.
-# \#\#anime-jail
+
+
+### \#\#anime-jail
+
 We have it.
 
 It's where you go if you want to get ops' attention. This channel has +z set, which means only ops can read your messages (but everyone can read ops' messages). You can use this channel to appeal a ban or quiet, to report misbehavior in #anime, to voice concerns about how the channel is being run, or to re-raise an issue if you feel it wasn't covered well enough the first time. Bring logs if you can!
