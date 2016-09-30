@@ -17,3 +17,5 @@ We have a bot in the channel that puts out a message when a episode is available
 * [AnimeLab](https://www.animelab.com) - Available in AU, NZ.
 * [Hulu](https://www.hulu.com) - Available in US.
 * [Viki](https://www.viki.com) - Has some anime. Available worldwide.
+* [Tubi TV](http://tubitv.com) - Few anime titles free to watch, ad-supported. Available in US.
+* [Crackle](http://www.crackle.com) - Few anime titles free to watch, ad-supported. Available in US.
