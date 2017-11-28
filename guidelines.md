@@ -29,6 +29,9 @@ We have them.
 
 Technically Luke-Jr has +F so he can take over the channel and there's nothing we can do about that, but it's k.
 
+| [<img src="https://vignette.wikia.nocookie.net/freenodeanime/images/d/d4/015_02.jpg/revision/latest?cb=20141020230325" width="150" title="A typical op"/>](https://vignette.wikia.nocookie.net/freenodeanime/images/d/d4/015_02.jpg/revision/latest?cb=20141020230325) | A typical op |
+|-|-|
+
 ### \#\#anime-jail
 
 We have it.
