@@ -3,7 +3,7 @@
 There are several anime websites that provide different functions.
 
 * [My Anime List](https://www.myanimelist.net) - Provides a site to check anime episodes as watched, find related anime.
-* [Hummingbird](https://www.hummingbird.me) - Similar site, but more modern and opensource (they steal the data from MAL).
+* [Kitsu](https://www.kitsu.io) - Similar site, but more modern and opensource (they steal the data from MAL).
 * [AniList](https://www.anilist.co) - Same as HB.
 * [AniChart](http://anichart.net/) - Sister site to AniList. Provides a calendar when next episode comes and anime in each season.
 
