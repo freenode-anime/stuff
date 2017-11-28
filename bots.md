@@ -22,6 +22,13 @@ This is Nanobot's bot. It was entirely custom-written in PHP (and yet somehow th
 # Suzuka
 This is davic's bot. It provides ops with tools to moderate the channel, along with other features.
 
+## Passive Services
+* Automatically quiets users who appear to be spamming/flooding.
+* Automatically directs people to ##anime-jail if they are repeatedly joining/leaving #anime, as may happen with faulty Internet connections.
+
+# Enju
+This is davic's bot. 
+
 ## Commands
 * **\_g _<ins>search terms</ins>_** : Search for websites using searx (which means multiple search engines). Example: "\_g light novel title generator"
 * **\_c _<ins>amount</ins>_ _<ins>currency</ins>_ in _<ins>currency</ins>_** : Converts amount into another currency. Example: "\_c 10 USD in SEK"
@@ -29,5 +36,3 @@ This is davic's bot. It provides ops with tools to moderate the channel, along w
 ## Passive Services
 * Posts titles of URLs people link the channel.
 * Emphasizes NSFW labels.
-* Automatically quiets users who appear to be spamming/flooding.
-* Automatically directs people to ##anime-jail if they are repeatedly joining/leaving #anime, as may happen with faulty Internet connections.
