@@ -11,7 +11,7 @@ Be respectful and courteous! That's the root of it. Some examples of respectful 
 This list is far from exhaustive, but the general theme is "don't be a dick". If you feel someone is acting out, feel free to ping an op. We'll generally try to communicate before doing anything, but if you feel you are wrongly quieted or banned, head over to ##anime-jail to chat with the ops. Keep in mind that moderation is heavily contextual and highly discretionary, and that we can only moderate what we see so you may have to ping us.
 
 Finally, a couple notes around moderation in the channel:
-* Please don't gossip when users get moderated. We're often privy to additional context that you haven't seen, and talking about users without that context could unfairly stain their reputation (or ours) and generally sullies the mood. If you have concerns, please share them in ##anime-jail
+* Please don't gossip about users who got moderated. We're often privy to additional context that you haven't seen, and talking about users without that context could unfairly stain their reputation (or ours) and generally sullies the mood. If you have concerns, please share them in ##anime-jail
 * Please don't try to back-seat moderate or clarify things on our behalf. We'd like to control the tone we set in the channel, so apart from reiterating content from the guidelines please defer to us
 
 # Ops
