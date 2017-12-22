@@ -23,6 +23,7 @@ We have them.
 * davic
 * mathu
 * Nanobot (lead op)
+* RedPhoenix
 * Smeef
 * theholyduck
 * Vohveli
