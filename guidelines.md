@@ -22,11 +22,13 @@ We have them.
 * BillyZane
 * davic
 * mathu
-* Nanobot (lead op)
+* Nanobot
 * RedPhoenix
 * Smeef
 * theholyduck
 * Vohveli
+
+There is no single lead op. Each op has the authority to use their discretion on any matters they feel need immediate attention. Ops will often discuss issues among themselves and come to longer-term decisions as a group.
 
 Technically Luke-Jr has +F so he can take over the channel and there's nothing we can do about that, but it's k.
 
