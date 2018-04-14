@@ -19,7 +19,6 @@ Finally, a couple notes around moderation in the channel:
 We have them.
 
 * amigojapan
-* BillyZane
 * davic
 * mathu
 * Nanobot
