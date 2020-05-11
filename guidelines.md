@@ -20,6 +20,7 @@ We have them.
 
 * amigojapan
 * davic
+* emmeka
 * mathu
 * Nanobot
 * RedPhoenix
