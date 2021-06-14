@@ -43,12 +43,7 @@ Only join this channel if you have something to say and please part when you're 
 
 # Bots
 
-We have them.
-
-
-* [ImoutoBot](https://github.com/freenode-anime/stuff/blob/master/bots.md#imoutobot) (owned by Nanobot) controls anime/manga of the week, maintains a quote database for users and announces their joining to the channel with a random one, searches for anime with !a, has !seen to show when a user was last present, has "!later tell" to deliver messages to users the next time they appear, and !c for calculator/conversions/answers.
-* [Suzuka](https://github.com/freenode-anime/stuff/blob/master/bots.md#suzuka) (owned by davic) serves as a robotic ops assistant that auto-quiets spammers and redirects people who join too much (spam or broken connection) to ##anime-jail
-* [Enju](https://github.com/freenode-anime/stuff/blob/master/bots.md#enju) (owned by davic) posts titles from links in the channel, searches searx with _g, currency etc.
+We have one: [ljrbot](https://github.com/freenode-anime/stuff/blob/master/bots.md#ljrbot) (owned by luke-jr) maintains a quote database for users and announces their joining to the channel with a random one, has !seen to show when a user was last present, has "!later tell" to deliver messages to users the next time they appear, and various other features.
 
 Want to bring your bot into the channel? We probably don't want you to! Feel free to ask the ops in ##anime-jail if you feel it could offer something good to the channel, but we generally say no because people abuse bots.
 
