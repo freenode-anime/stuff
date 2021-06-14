@@ -26,9 +26,9 @@ We have them.
 * theholyduck
 * Vohveli
 
-There is no single lead op. Each op has the authority to use their discretion on any matters they feel need immediate attention. Ops will often discuss issues among themselves and come to longer-term decisions as a group.
+Each op has the authority to use their discretion on any matters they feel need immediate attention. Ops will often discuss issues among themselves and come to longer-term decisions as a group.
 
-Technically Luke-Jr has +F so he can take over the channel and there's nothing we can do about that, but it's k.
+Luke-Jr is the channel founder and also supervises the op team as necessary (rare).
 
 | [<img src="https://vignette.wikia.nocookie.net/freenodeanime/images/d/d4/015_02.jpg/revision/latest?cb=20141020230325" width="150" title="A typical op"/>](https://vignette.wikia.nocookie.net/freenodeanime/images/d/d4/015_02.jpg/revision/latest?cb=20141020230325) | A typical op |
 |-|-|
